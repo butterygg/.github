@@ -2,4 +2,4 @@
 
 _The smooth stuff between DAOs and their Treasuries_
 
-New here? Check out our [contributing guide](https://whip.buttery.money)
+New here? Check out our [contributing guide](https://github.com/butterdao/whip/blob/main/CONTRIBUTING.md)
