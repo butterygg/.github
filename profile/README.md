@@ -1,3 +1,3 @@
 # Welcome to Butter
 
-_The smooth stuff between DAOs and their Treasuries_
+_The smooth stuff 🧈 between 🥞 DAO Governance 🥐 and Cryptoeconomics 🍿_
