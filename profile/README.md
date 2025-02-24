@@ -1,3 +1,3 @@
 # Welcome to Butter
 
-_The smooth stuff 🧈 between 🥞 DAO Governance 🥐 and Cryptoeconomics 🍿_
+_With enough 🧈 anything is good._
